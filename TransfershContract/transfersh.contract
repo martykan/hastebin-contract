@@ -1,0 +1,7 @@
+[Contractor Entry]
+Name=Upload to Transfer.sh
+Icon=transfersh
+Description=Upload a file to Transfer.sh
+MimeType=!inode/blockdevice;inode/chardevice;inode/fifo;inode/socket;
+Exec=python /usr/share/TransfershContract/transfersh.py %U
+Gettext-Domain=pantheon-files
