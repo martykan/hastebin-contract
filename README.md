@@ -1,15 +1,9 @@
-# Hastebin Contract
+# Transfer.sh Contract
 
-##What is Hastebin Contract
-A Contractor plugin for pasting files to [Hastebin](http://hastebin.com)
+## What is Hastebin Contract
+A Contractor plugin for uploading files to [transfer.sh](https://transfer.sh)
 
-##Install
-You can either install Hastebin Contract from our Ubuntu PPA:
-```
-sudo add-apt-repository ppa:cybre/hastebincontract 
-sudo apt-get update
-sudo apt-get install hastebin-contract
-```
-or via the install script:
+## Install
+You can either install this from via the install script:
 
 `sudo ./install.sh`
